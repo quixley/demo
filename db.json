@@ -13,8 +13,14 @@
     { "id": 11, "title": "Video 11", "description": "Last description", "thumbnail":"https://images.unsplash.com/photo-1519176570115-8b6ccb4b5448" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "text": "Descriptive text for first comment that also can be very long and have\nsome\nspecial symbols\ninside" },
+    { "id": 2, "text": "Text for second comment" },
+    { "id": 3, "text": "Text for comment (3)" },
+    { "id": 4, "text": "4" },
+    { "id": 5, "text": "Yet another text but now it goes to comment #5" },
+    { "id": 6, "text": "#$%^&*(*&^&*(@)!_*#(&@$(@!)*#_(@!)*$&^#&*(@!)_(. Yeah, some unhappy comment tha is..." },
+    { "id": 7 },
+    { "id": 8, "text": "Last but not least" }
   ],
   "profile": {
     "name": "typicode"
