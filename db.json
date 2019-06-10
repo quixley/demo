@@ -1,16 +1,16 @@
 {
   "videos": [
-    { "id": 1, "title": "Video 1", "description": "This is long description for first video that can be actually very-very long" },
-    { "id": 2, "title": "Video 2", "description": "For second video there is moderate description" },
-    { "id": 3, "title": "Video 3", "description": "No description for third video" },
-    { "id": 4, "title": "Video 4", "description": "Empty(4)" },
-    { "id": 5, "title": "Video 5" },
+    { "id": 1, "title": "Video 1", "description": "This is long description for first video that can be actually very-very long", "thumbnail":"https://ak0.picdn.net/shutterstock/videos/5924600/thumb/1.jpg" },
+    { "id": 2, "title": "Video 2", "description": "For second video there is moderate description", "thumbnail":"http://pluspng.com/img-png/pool-ball-png-hd-pool-ball-2-icon-pool-balls-icons-512.png" },
+    { "id": 3, "title": "Video 3", "description": "No description for third video", "thumbnail":"https://ak7.picdn.net/shutterstock/videos/34069987/thumb/1.jpg" },
+    { "id": 4, "title": "Video 4", "description": "Empty(4)", "thumbnail":"https://cdn.pixabay.com/photo/2016/06/02/02/12/billiard-1430095_960_720.png" },
+    { "id": 5, "title": "Video 5", "thumbnail":"https://freerangestock.com/sample/3622/number-5-pool-ball.jpg" },
     { "id": 6, "title": "Video 6" },
-    { "id": 7, "title": "Video 7", "description": "Description for 7th" },
-    { "id": 8, "title": "Video 8", "description": "Description for 8th" },
-    { "id": 9, "title": "Video 9", "description": "Description for 9th" },
-    { "id": 10, "title": "Video 10", "description": "That's almost last video" },
-    { "id": 11, "title": "Video 11", "description": "Last description" }
+    { "id": 7, "title": "Video 7", "description": "Description for 7th", "thumbnail":"https://c4.wallpaperflare.com/wallpaper/265/897/189/billiards-ball-table-wallpaper-02eb7ad5b25e4922fd1668e60136cd1b.jpg" },
+    { "id": 8, "title": "Video 8", "description": "Description for 8th", "thumbnail":"https://i.pinimg.com/originals/bb/0a/2e/bb0a2ead9826e52073643f3fcedfe345.png" },
+    { "id": 9, "title": "Video 9", "description": "Description for 9th", "thumbnail":"https://ak8.picdn.net/shutterstock/videos/5924618/thumb/1.jpg" },
+    { "id": 10, "title": "Video 10", "description": "That's almost last video", "thumbnail":"https://i1.wp.com/juniornorris.com/wp-content/uploads/2017/04/10-ball-ring-game.jpg" },
+    { "id": 11, "title": "Video 11", "description": "Last description", "thumbnail":"https://images.unsplash.com/photo-1519176570115-8b6ccb4b5448" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
