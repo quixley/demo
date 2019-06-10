@@ -1,8 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "videos": [
+    { "id": 1, "title": "Video 1", "description": "This is long description for first video that can be actually very-very long" },
+    { "id": 2, "title": "Video 2", "description": "For second video there is moderate description" },
+    { "id": 3, "title": "Video 3", "description": "No description for third video" },
+    { "id": 4, "title": "Video 4", "description": "Empty(4)" },
+    { "id": 5, "title": "Video 5" },
+    { "id": 6, "title": "Video 6" },
+    { "id": 7, "title": "Video 7", "description": "Description for 7th" },
+    { "id": 8, "title": "Video 8", "description": "Description for 8th" },
+    { "id": 9, "title": "Video 9", "description": "Description for 9th" },
+    { "id": 10, "title": "Video 10", "description": "That's almost last video" },
+    { "id": 11, "title": "Video 11", "description": "Last description" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
