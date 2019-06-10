@@ -1,5 +1,5 @@
 {
-  "videos": [
+  "videos":{"videos": [
     { "id": 1, "title": "Video 1", "description": "This is long description for first video that can be actually very-very long", "thumbnail":"https://ak0.picdn.net/shutterstock/videos/5924600/thumb/1.jpg" },
     { "id": 2, "title": "Video 2", "description": "For second video there is moderate description", "thumbnail":"http://pluspng.com/img-png/pool-ball-png-hd-pool-ball-2-icon-pool-balls-icons-512.png" },
     { "id": 3, "title": "Video 3", "description": "No description for third video", "thumbnail":"https://ak7.picdn.net/shutterstock/videos/34069987/thumb/1.jpg" },
@@ -11,8 +11,8 @@
     { "id": 9, "title": "Video 9", "description": "Description for 9th", "thumbnail":"https://ak8.picdn.net/shutterstock/videos/5924618/thumb/1.jpg" },
     { "id": 10, "title": "Video 10", "description": "That's almost last video", "thumbnail":"https://i1.wp.com/juniornorris.com/wp-content/uploads/2017/04/10-ball-ring-game.jpg" },
     { "id": 11, "title": "Video 11", "description": "Last description", "thumbnail":"https://images.unsplash.com/photo-1519176570115-8b6ccb4b5448" }
-  ],
-  "comments": [
+  ]},
+  "comments":{"comments": [
     { "id": 1, "text": "Descriptive text for first comment that also can be very long and have\nsome\nspecial symbols\ninside" },
     { "id": 2, "text": "Text for second comment" },
     { "id": 3, "text": "Text for comment (3)" },
@@ -21,7 +21,7 @@
     { "id": 6, "text": "#$%^&*(*&^&*(@)!_*#(&@$(@!)*#_(@!)*$&^#&*(@!)_(. Yeah, some unhappy comment tha is..." },
     { "id": 7 },
     { "id": 8, "text": "Last but not least" }
-  ],
+  ]},
   "profile": {
     "name": "typicode"
   }
