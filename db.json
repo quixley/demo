@@ -19,7 +19,7 @@
     { "id": 4, "text": "4" },
     { "id": 5, "text": "Yet another text but now it goes to comment #5" },
     { "id": 6, "text": "#$%^&*(*&^&*(@)!_*#(&@$(@!)*#_(@!)*$&^#&*(@!)_(. Yeah, some unhappy comment tha is..." },
-    { "id": 7, "text":"" },
+    { "id": 7 },
     { "id": 8, "text": "Last but not least" }
   ]},
   "profile": {
