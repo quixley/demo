@@ -1,7 +1,7 @@
 {
   "videos":{"videos": [
     { "id": 1, "title": "Video 1", "description": "This is long description for first video that can be actually very-very long", "thumbnail":"https://ak0.picdn.net/shutterstock/videos/5924600/thumb/1.jpg" },
-    { "id": 2, "title": "Video 2", "description": "For second video there is moderate description", "thumbnail":"http://pluspng.com/img-png/pool-ball-png-hd-pool-ball-2-icon-pool-balls-icons-512.png" },
+    { "id": 2, "title": "Video 2", "description": "For second video there is moderate description", "thumbnail":"http://www.pngall.com/wp-content/uploads/2/2-Number-PNG-Images.png" },
     { "id": 3, "title": "Video 3", "description": "No description for third video", "thumbnail":"https://ak7.picdn.net/shutterstock/videos/34069987/thumb/1.jpg" },
     { "id": 4, "title": "Video 4", "description": "Empty(4)", "thumbnail":"https://cdn.pixabay.com/photo/2016/06/02/02/12/billiard-1430095_960_720.png" },
     { "id": 5, "title": "Video 5", "thumbnail":"https://freerangestock.com/sample/3622/number-5-pool-ball.jpg" },
